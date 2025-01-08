@@ -31,18 +31,6 @@
     "\n",
     "**Students that are caught cheating will obtain a score of 0 points.** <br>\n",
     "\n",
-    "Homework 2 is worth 25% of your final grade.    \n",
-    "\n",
-    "The submission package should correspond to a .zip archive (.rar files are not accepted) with the following files:\n",
-    "1. Jupyter Notebook with the output of all the cells;\n",
-    "2. HTML print of your Jupyter Notebook (in Jupyter go to File -> Download as -> HTML);\n",
-    "3. All text or .csv files that are exported as part of the exercises. **Please don't upload the files downloaded/imported as part of the exercises.**\n",
-    "\n",
-    "**Please change the name of the notebook to \"H2.\\<student_1_id\\>_\\<student_2_id\\>.ipynb\", replacing \\<student_id\\> by your student_id.** <br>\n",
-    "\n",
-    "Submission is done through the respective Moodle activity, and only one of the group members should submit the files. <br>\n",
-    "The deadline is the **19th of October at 12:00**. <br>\n",
-    "A penalty of 1 point per day late will be applied to late deliveries. <br>\n",
     "**In this notebook, you are allowed to use Pandas and Numpy.**"
    ]
   },
